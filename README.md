@@ -3,8 +3,8 @@
 
 ### 1.self-supervised-learning 
 #### 1-1. DINO 
-##### 논문 : 
-##### 코드 : https://github.com/dohun-mat/paper_code/tree/main/self_supervised_learning/dino
+##### 논문정리 : 
+##### 코드 : [dino_code](https://github.com/dohun-mat/paper_code/tree/main/self_supervised_learning/dino) 
 #### 1-2. HSAKD 
 ### 2.transformer 
 #### 2-1. VIT 
