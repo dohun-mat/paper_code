@@ -18,5 +18,5 @@
 ### 3. 3D_reconstruct 
 #### 3-1. sfm 
 ##### 논문정리 : - 
-##### 코드 : [bit_code](https://github.com/dohun-mat/paper_code/blob/main/transformer/bit.ipynb) 
+##### 코드 : [sfm_code](https://github.com/dohun-mat/paper_code/tree/main/3D_reconstruct/sfm) 
 
