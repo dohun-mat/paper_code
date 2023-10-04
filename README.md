@@ -6,6 +6,12 @@
 ##### 논문정리 : [dino_논문정리](https://dohun-0714.tistory.com/53)
 ##### 코드 : [dino_code](https://github.com/dohun-mat/paper_code/tree/main/knowledge_distilation/dino) 
 #### 1-2. HSAKD 
+##### 논문정리 : [dino_논문정리](https://dohun-0714.tistory.com/53)
+##### 코드 : [dino_code](https://github.com/dohun-mat/paper_code/tree/main/knowledge_distilation/dino) 
 ### 2.transformer 
 #### 2-1. VIT 
+##### 논문정리 : [dino_논문정리](https://dohun-0714.tistory.com/53)
+##### 코드 : [dino_code](https://github.com/dohun-mat/paper_code/tree/main/knowledge_distilation/dino) 
 #### 2-2. BIT 
+##### 논문정리 : [dino_논문정리](https://dohun-0714.tistory.com/53)
+##### 코드 : [dino_code](https://github.com/dohun-mat/paper_code/tree/main/knowledge_distilation/dino) 
