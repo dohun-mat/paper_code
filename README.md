@@ -8,6 +8,9 @@
 #### 1-2. HSAKD 
 ##### 논문정리 : [HSAKD_논문정리](https://dohun-0714.tistory.com/57)
 ##### 코드 : [HSAKD_code](https://github.com/dohun-mat/paper_code/tree/main/knowledge_distilation/HSAKD) 
+#### 1-3. Deep_Mutual_Learning 
+##### 논문정리 : [DML_논문정리](https://dohun-0714.tistory.com/59)
+##### 코드 : [DML_code](https://github.com/dohun-mat/paper_code/tree/main/knowledge_distilation/DML)
 ### 2. transformer 
 #### 2-1. VIT 
 ##### 논문정리 : [Vit_논문정리](https://dohun-0714.tistory.com/52)
