@@ -25,7 +25,7 @@
 ### 4. NLP
 #### 3-1. BERT 
 ##### 논문정리 : [BERT_논문정리](https://dohun-0714.tistory.com/63)
-##### 코드 : [sfm_code](https://github.com/dohun-mat/paper_code/tree/main/3D_reconstruct/sfm)   
+##### 코드 : [BERT_code](https://github.com/dohun-mat/care_cruis_repo/blob/main/bert/bert_model.ipynb)   
 
 
 
