@@ -32,7 +32,7 @@
 ##### 코드 : [retinaface_code](https://github.com/dohun-mat/paper_code/tree/main/object_detection)   
 #### 3-1. FPN  
 ##### 논문정리 : -  
-##### 코드 : [FPN_code](https://github.com/dohun-mat/paper_code/tree/main/object_detection)   
+##### 코드 : [FPN_code](https://github.com/dohun-mat/paper_code/blob/main/object_detection/FPN.ipynb)   
 
 
 
