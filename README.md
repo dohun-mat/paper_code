@@ -26,6 +26,14 @@
 #### 3-1. BERT 
 ##### 논문정리 : [BERT_논문정리](https://dohun-0714.tistory.com/63)
 ##### 코드 : [BERT_code](https://github.com/dohun-mat/care_cruis_repo/blob/main/bert/bert_model.ipynb)   
+### 4. Object Detection  
+#### 3-1. RetinaFace  
+##### 논문정리 : [retinaface_논문정리](https://dohun-0714.tistory.com/65)  
+##### 코드 : [retinaface_code](https://github.com/dohun-mat/paper_code/tree/main/object_detection)   
+#### 3-1. FPN  
+##### 논문정리 : -  
+##### 코드 : [FPN_code](https://github.com/dohun-mat/paper_code/tree/main/object_detection)   
+
 
 
 
